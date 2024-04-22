@@ -1,5 +1,7 @@
 # EPUB Analyst
 
+![Computer screen](assets/Monitor.png)
+
 ###### Recent updates: 
 **Beta 0.2.0**: Revamped and upgraded. More: [Beta 0.2.0 Update](updates/beta0.2.0.md)
 
