@@ -5,7 +5,7 @@
 
 Epub Analyst is an open-source custom ChatGPT model avaliable in the GPT store. Its purpose is to ease the process of viewing and editing EPUB files, for professionals and beginners alike. This repository houses the system prompt (instructions) for the GPT, a guide for using it, and more. Here are links to the project files:
 
-***[Guide](guide/GUIDE.md)***
+***[Guide](GUIDE.md)***
 
 ***[Prompts](prompts/PROMPTS.md)***
 
