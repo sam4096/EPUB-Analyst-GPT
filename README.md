@@ -1,6 +1,8 @@
 # EPUB Analyst
 
-![Computer screen](assets/Monitor.png)
+![Computer screen](assets/monitor.png)
+
+[Home](/README.md) | [Prompts](/prompts/PROMPTS.md) | [Versions](/versions/VERSIONS.md)
 
 ###### Recent updates: 
 **Beta 0.2.0**: Revamped and upgraded. More: [Beta 0.2.0 Update](updates/beta0.2.0.md)
@@ -12,5 +14,3 @@ Epub Analyst is an open-source custom ChatGPT model avaliable in the GPT store. 
 ***[Prompts](prompts/PROMPTS.md)***
 
 ***[Versions](versions/VERSIONS.md)***
-
-***[CLI](CLI.md)***
